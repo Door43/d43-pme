@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[pme:home|Door43 (pme)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-pme|d43-pme repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-pme/archive/master.zip|d43-pme.zip]]
+
+**Recent Changes**
+{{changes>ns = pme}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/pme|Ethnologue data]]
+
